@@ -2,5 +2,5 @@ DCP Resolusi
 - Mempelajari lebih dalam tentang FLutter
 - Mempelajari GIT dan Github
 - Bergabung dengan komunitas FLutter Indonesia
-- Membuat portfolio terbaik
 - Mendaftar di upwork/fiverr
+- Mendalami freelance
